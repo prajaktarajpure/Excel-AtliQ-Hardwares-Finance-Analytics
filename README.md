@@ -1,5 +1,4 @@
 # Excel-AtliQ-Hardwares-Finance-Analytics
-# Excel-AtliQ-Hardwares-Finance-Analytics
 ### Project Objective:
 The primary objective of this project is to streamline financial data management and analysis for AtliQ Hardwares through the implementation of advanced Excel techniques. By employing ETL methodologies, Power Query, Power Pivot, and DAX measures, the aim is to automate the process of extracting, transforming, and loading financial data, ultimately facilitating in-depth analysis and reporting.
 
